@@ -16,3 +16,5 @@ Learning Git commit flow
 
 Update README on the new branch
 This is again for branches 
+
+hey there it's for the other branch i.e update-readme2
