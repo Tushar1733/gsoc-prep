@@ -9,3 +9,7 @@ Goals:
 - Learn Git and open-source workflows
 - Build real Python projects
 - Contribute to open source before March 2026
+
+
+
+Learning Git commit flow
