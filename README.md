@@ -13,3 +13,6 @@ Goals:
 
 
 Learning Git commit flow
+
+Update README on the new branch
+This is again for branches 
